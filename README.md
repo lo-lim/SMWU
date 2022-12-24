@@ -1,4 +1,4 @@
-# Summary of SMWU Data analysis classes  
+# Summary of SMWU Data classes  
 - Second semester of second grade (2-2)
 
 | Class | Description | Grade |
