@@ -10,7 +10,7 @@
 | Class | Description | Grade |
 | ------ | ------ | ------ | 
 | Business Data Analysis 1 | Traditional structured Data Analysis with R | **A+** |
-| Introduction to Business Analytics| The concept of Business Analytics | A- |
+| Introduction to Business Analytics| The concept of Business Analytics | **A-** |
 
 - Second semester of third grade (3-2)
 
