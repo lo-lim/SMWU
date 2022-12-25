@@ -17,6 +17,6 @@
 | Class | Description | Grade |
 | ------ | ------ | ------ |
 | Business Data Analysis 2 | Machine Learning with R | **A+** |
-| IT and Business Innovation | Data Analysis using Python| |
-| Machine Learning with Python | machine learning with Python |
+| IT and Business Innovation | Data Analysis using Python| **A+**  |
+| Machine Learning with Python | machine learning with Python |  **A+** | 
 | Basic of Python Programming | Basic of Python | **P** |
