@@ -20,3 +20,4 @@
 | IT and Business Innovation | Data Analysis using Python| **A+**  |
 | Machine Learning with Python | machine learning with Python |  **A+** | 
 | Basic of Python Programming | Basic of Python | **P** |
+ 
