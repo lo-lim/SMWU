@@ -20,4 +20,7 @@
 | IT and Business Innovation | Data Analysis using Python| **A+**  |
 | Machine Learning with Python | machine learning with Python |  **A+** | 
 | Basic of Python Programming | Basic of Python | **P** |
- 
+
+
+- **Business Data Analysis 2 feedback**
+<img src="https://user-images.githubusercontent.com/115607856/210318977-07e3175d-5be0-4c85-bf01-1fe5be53f4c3.PNG" width="50%" height="50%"/> 
