@@ -23,4 +23,4 @@
 
 
 - **Business Data Analysis 2 feedback**
-<img src="https://user-images.githubusercontent.com/115607856/210318977-07e3175d-5be0-4c85-bf01-1fe5be53f4c3.PNG" width="60%" height="50%"/> 
+<img src="https://user-images.githubusercontent.com/115607856/210318977-07e3175d-5be0-4c85-bf01-1fe5be53f4c3.PNG" width="80%" height="50%"/> 
